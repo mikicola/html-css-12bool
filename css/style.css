@@ -1,0 +1,23 @@
+[class*="col-"] {
+    height: 50px;
+    border: 1px solid yellow;
+    background-color: #006cfa;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.no-wrap{
+    flex-wrap: nowrap;
+}
+
+.green{
+    margin: .5rem;
+    background-color: aquamarine
+}
+
+.second{
+    margin-top: 1rem;
+}
